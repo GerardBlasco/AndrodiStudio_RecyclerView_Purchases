@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GerardBlasco_RA01_ACT04</string>
+    <string name="symbol_add">+</string>
+    <string name="symbol_substract">-</string>
+    <string name="num0">0</string>
+    <string name="total">Total: </string>
+    <string name="confirm_purchase">Confirm Purchase</string>
+</resources>
